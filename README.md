@@ -67,7 +67,7 @@
 - <p align="left">Clone Source:
 ```sh
 cd $home
-git clone https://github.com/janlou/AdvanSource
+git clone https://github.com/mohsenbozorgi/fa1
 ```
 - <p align="left">First install:
 ```sh
